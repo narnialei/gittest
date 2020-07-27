@@ -9,4 +9,5 @@ git commit -m ""
 
 ≤‚ ‘
 git clone https://github.com/narnialei/gittest.git
-s
+
+git rm --cache readme.md.bak

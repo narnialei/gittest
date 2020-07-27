@@ -11,3 +11,5 @@ git commit -m ""
 git clone https://github.com/narnialei/gittest.git
 
 git rm --cache readme.md.bak
+
+git reset "" commitµÄ¹şÏ£Öµ
